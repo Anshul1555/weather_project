@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ES2020",
+    
+    /* Type Checking */
+    "strict": true, /* Enable strict mode */
+    
+    /* Output */
+    "outDir": "./dist", /* Output directory */
+    "rootDir": "./src", /* Root directory */
+    
+    /* Enable ESModuleInterop for better compatibility */
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}
