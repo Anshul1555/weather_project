@@ -14,7 +14,7 @@ const __dirname = dirname(__filename);
 const PORT = process.env.PORT || 3001;
 
 // Serve static files from the client dist folder
-app.use(express.static('client/dist'));
+app.use(express.static('../client/dist'));
 
 // Parse JSON and urlencoded form data
 app.use(express.json());
