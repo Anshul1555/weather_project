@@ -34,6 +34,7 @@ Make sure you have the following installed:
    ```
 
 Video of the Project:
+
 https://github.com/user-attachments/assets/cdd1b414-49cf-4990-976d-1752c228d8ad
 
 
